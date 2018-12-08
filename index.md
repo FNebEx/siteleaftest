@@ -14,4 +14,4 @@ Here you go
 
 You can be funky and free, [But Just don't get that funk on me!]()
 
-Today is {{ page.date }}
+Today is {{page.date}}
