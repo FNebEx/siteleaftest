@@ -1,5 +1,6 @@
 ---
 title: This is the thing...
+date: 2018-12-07 00:05:00 Z
 layout: home
 ---
 
