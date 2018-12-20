@@ -11,4 +11,4 @@ This is me testing out some markdown stuff... Yea.
 
 You can be funky and free, [But just don't get that funk on me!]()
 
-This post was written by {{ page.author }}. And the title is {{ page.title }}.
+This post was written by {{ page.info.author }}. And the title is {{ page.info.title }}.
