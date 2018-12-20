@@ -16,3 +16,6 @@ This post was written by {{ page.author.name }}. And the title is {{ page.author
 > A wise man said nothing at all.
 BUT
 > An OG told me a closed mouth doesn't get fed.
+
+# Here is another one
+> {{ site.description }}
