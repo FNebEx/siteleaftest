@@ -18,4 +18,4 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll]
 
-{{ page.url }}, and {{ page.date }}
+{{ site.url }}{{ page.url }}, and {{ page.date }}
