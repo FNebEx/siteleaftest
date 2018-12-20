@@ -4,14 +4,6 @@ date: 2018-12-07 00:05:00 Z
 layout: home
 ---
 
-Here you go
+This is me testing out some markdown stuff... Yea.
 
-> A wise man said nothing at all
-
-~~Strikethrough~~
-
-**Bold**
-
-You can be funky and free, [But Just don't get that funk on me!]()
-
-Today is {{page.date}}
+You can be funky and free, [But just don't get that funk on me!]()
