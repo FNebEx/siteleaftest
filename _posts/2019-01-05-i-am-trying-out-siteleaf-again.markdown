@@ -2,6 +2,7 @@
 title: I am trying out siteleaf again.
 date: 2019-01-05 16:32:00 Z
 name: Kevin
+layout: post
 ---
 
 # {{ page.title }}
